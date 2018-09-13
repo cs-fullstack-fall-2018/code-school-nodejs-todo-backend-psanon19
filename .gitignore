@@ -4,6 +4,5 @@ npm-debug.log
 .env
 .DS_Store
 .idea/
-NodeToDo.iml
-client/
-code-school-react-todo-frontend/
+*.iml
+code-school-nodejs-todo-backend-psanon19
